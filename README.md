@@ -1,5 +1,11 @@
 ## Hi, I'm Carsten🦀👍
 
+I love designing, building, and playing with cyber physical systems. 
+
+A portfolio of my personal projects can be found on my GitHub pages site.
+
+Checkout my pinned repos to see some of the projects I'm currently working on!
+
 <!--
 **shulltronics/shulltronics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
